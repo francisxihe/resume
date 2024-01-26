@@ -1,0 +1,1 @@
+import{_ as l,c as o,o as i,U as t}from"./chunks/framework.Plfml059.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"resume/manage.md","filePath":"resume/manage.md"}'),r={name:"resume/manage.md"},a=t("",64),e=[a];function n(s,p,g,h,u,c){return i(),o("div",null,e)}const _=l(r,[["render",n]]);export{m as __pageData,_ as default};
