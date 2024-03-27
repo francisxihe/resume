@@ -1,0 +1,1 @@
+import{_ as e,c as a,o,U as i}from"./chunks/framework.qvcCyPxx.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"interview/index.md","filePath":"interview/index.md"}'),t={name:"interview/index.md"},r=i("",16),l=[r];function n(d,_,p,s,c,h){return o(),a("div",null,l)}const f=e(t,[["render",n]]);export{m as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as l,c as i,o,U as t}from"./chunks/framework.qvcCyPxx.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"resume/index.md","filePath":"resume/index.md"}'),r={name:"resume/index.md"},a=t("",64),e=[a];function n(s,p,g,h,u,d){return o(),i("div",null,e)}const _=l(r,[["render",n]]);export{m as __pageData,_ as default};
